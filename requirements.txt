@@ -6,3 +6,5 @@ pandas
 seaborn
 sklearn
 geopy
+imblearn
+category-encoders
