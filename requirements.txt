@@ -8,3 +8,5 @@ sklearn
 geopy
 imblearn
 category-encoders
+xgboost
+lightgbm
