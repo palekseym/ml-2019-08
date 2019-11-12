@@ -26,7 +26,7 @@ def plot_roc_curve(prob_prediction, actual):
     plt.show()
 
 def get_dummies(data, feature, prefix):
-    data_dummies=pd.get_dummies(data[feature], prefix=prefix)
+    data_dummies=pd.get_dummies(data[feature], prefix=prefix, drop_first=True)
     return pd.concat([data.drop([feature], axis=1), data_dummies], axis=1)
 
 def plot_tree_feature_importance(tree, columns):
