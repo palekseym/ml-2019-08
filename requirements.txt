@@ -10,3 +10,4 @@ imblearn
 category-encoders
 xgboost
 lightgbm
+nltk
