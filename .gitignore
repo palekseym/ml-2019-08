@@ -2,3 +2,5 @@ temp/
 venv/
 .*
 __pycache__/
+IMDB Dataset.csv
+
