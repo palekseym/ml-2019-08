@@ -11,3 +11,6 @@ category-encoders
 xgboost
 lightgbm
 nltk
+requests
+fake_useragent
+BeautifulSoup4
