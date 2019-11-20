@@ -10,3 +10,6 @@ imblearn
 category-encoders
 xgboost
 lightgbm
+requests
+fake_useragent
+BeautifulSoup4
