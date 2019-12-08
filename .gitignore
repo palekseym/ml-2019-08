@@ -3,4 +3,4 @@ venv/
 .*
 __pycache__/
 IMDB Dataset.csv
-
+reduced_comments_vk.csv
