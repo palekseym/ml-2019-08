@@ -14,3 +14,5 @@ nltk
 requests
 fake_useragent
 BeautifulSoup4
+gensim
+wordcloud
