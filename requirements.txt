@@ -17,4 +17,4 @@ BeautifulSoup4
 gensim
 wordcloud
 networkx
-
+tqdm
