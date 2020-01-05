@@ -16,3 +16,5 @@ fake_useragent
 BeautifulSoup4
 gensim
 wordcloud
+tqdm
+
