@@ -17,3 +17,4 @@ BeautifulSoup4
 gensim
 wordcloud
 lightfm
+tqdm
