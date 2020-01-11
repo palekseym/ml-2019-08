@@ -16,5 +16,6 @@ fake_useragent
 BeautifulSoup4
 gensim
 wordcloud
+networkx
 lightfm
 tqdm
